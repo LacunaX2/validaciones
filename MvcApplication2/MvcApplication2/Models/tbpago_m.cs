@@ -18,7 +18,7 @@ namespace MvcApplication2.Models
 
         public interface itpago
         {
-
+            //opooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
             [Key]
             [ScaffoldColumn(false)]
             object idpago { get; set; }
